@@ -1,4 +1,13 @@
-### Hi there 👋
+
+
+## PT -  👋 Olá, estranho.
+  
+  Me chamo Rodrigo, sou um nerd, amante de livros e autodidata, adoro aprender coisas novas e esse é o meu github, aqui você vai achar tanto projetos de tutoriais quanto projetos pessoais desenvolvidos em seja lá que stack eu estiver aprendendo na época, por enquanto, muito do que vai ver é C#, JS, CSS, HTML, TS e Angular.
+  
+## EN - 👋 Hello, stranger.
+  My name is Rodrigo, i'm a nerd, bookworm and self-taught student, i love to learn new things, and this is my github, here you will find both tutorials i am following and personal projects, being developed in whatever stack i am learning at the time, for now, most of it will be in C#, JS, CSS, HTML, TS and Angular.
+  
+  
 
 <!--
 **rodrigo-travessa/rodrigo-travessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
