@@ -2,11 +2,12 @@
 
 ## PT -  👋 Olá, estranho.
   
-  Me chamo Rodrigo, sou um nerd, amante de livros e autodidata, adoro aprender coisas novas e esse é o meu github, aqui você vai achar tanto projetos de tutoriais quanto projetos pessoais desenvolvidos em seja lá que stack eu estiver aprendendo na época, por enquanto, muito do que vai ver é C#, JS, CSS, HTML, TS e Angular.
+  Me chamo Rodrigo, sou um nerd, amante de livros e autodidata, adoro aprender coisas novas e esse é o meu github, aqui você vai achar projetos em C# e Angular.
+  Meu Github está meio vazio, é porque estou filtrando projetos antigos ou muito pequenos e deixarei apenas alguns dos melhores públicos.
   
 ## EN - 👋 Hello, stranger.
-  My name is Rodrigo, i'm a nerd, bookworm and self-taught student, i love to learn new things, and this is my github, here you will find both tutorials i am following and personal projects, being developed in whatever stack i am learning at the time, for now, most of it will be in C#, JS, CSS, HTML, TS and Angular.
-  
+  My name is Rodrigo, i'm a nerd, bookworm and self-taught student, I love to learn new things, and this is my github, here you will find projects in C# and Angular.
+  My github is feeling empty because I am filtering out the smaller projects and older or smaller stuff, leaving only the best projects public.
   
 
 <!--
