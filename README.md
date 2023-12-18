@@ -19,11 +19,9 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
----
 ##### Languages I use
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![C#](https://img.shields.io/badge/-C++-000000?style=flat&logo=CSharp)
+![C#](https://img.shields.io/badge/-C#-000000?style=flat&logo=CSharp)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
