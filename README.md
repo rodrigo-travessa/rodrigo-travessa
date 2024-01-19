@@ -6,6 +6,10 @@
 - 📚 Meus interesses englobam Web, Games, Embeded, Robótica, etc... eu AMO aprender e estudar.
 - 💪🏼 Objetivo em 5 anos : Ser um Excelente Engenheiro de Software.
 
+- PS: Recentemente fiz a limpa no meu GitHub, vários projetos de React, Angular, Vue e alguns app menores de .NET foram removidos.
+  O motivo foi pra promover uma limpeza e deixar somente os projetos completos com mais pra mostrar, estava passando de 50 projetos entre treinamentos, projetos de estudo
+  estudos de estruturas de dados, algoritmos, resoluções de leetcode e Advent Of Code. 
+
 ---
 ### Hi there 👋 I'm Rodrigo Travessa
 
