@@ -2,7 +2,7 @@
 
 ## Sou um Desenvolvedor Fullstack que quer dominar o mundo.
 
-- 👨‍💻 Atualmente estou trabalhando em aprofundar meus conhecimentos com .NET e Angular.
+- 👨‍💻 Atualmente estou trabalhando em aprofundar meus conhecimentos com .NET e React.
 - 📚 Meus interesses englobam Web, Games, Embeded, Robótica, etc... eu AMO aprender e estudar.
 - 💪🏼 Objetivo em 5 anos : Ser um Excelente Engenheiro de Software.
 
@@ -15,7 +15,7 @@
 
 ## I'm a Fullstack Developer who dreams of ruling the world.
 
-- 👨‍💻 I’m currently working on .NET + Angular projects.
+- 👨‍💻 I’m currently working on .NET + React projects.
 - 📚 Learning everything about Frontend, Backend, Web, Games, Embeded, I Love to Study and Learn.
 - 💪🏼 Future Goals: Becoming an amazing Software Engineer.
 
