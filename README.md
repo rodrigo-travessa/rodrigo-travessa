@@ -4,7 +4,7 @@
 
 - 👨‍💻 Atualmente estou trabalhando em aprofundar meus conhecimentos com .NET e React.
 - 📚 Meus interesses englobam Web, Games, Embeded, Robótica, etc... eu AMO aprender e estudar.
-- 💪🏼 Objetivo em 5 anos : Ser um Excelente Engenheiro de Software.
+- 💪🏼 Objetivo em 5 anos : Ser um Excelente Engenheiro de Software Sênior.
 
 - PS: Recentemente fiz a limpa no meu GitHub, vários projetos de React, Angular, Vue e alguns app menores de .NET foram removidos.
   O motivo foi pra promover uma limpeza e deixar somente os projetos completos com mais pra mostrar, estava passando de 50 projetos entre treinamentos, projetos de estudo
@@ -17,7 +17,7 @@
 
 - 👨‍💻 I’m currently working on .NET + React projects.
 - 📚 Learning everything about Frontend, Backend, Web, Games, Embeded, I Love to Study and Learn.
-- 💪🏼 Future Goals: Becoming an amazing Software Engineer.
+- 💪🏼 Future Goals: Becoming an amazing Senior Software Engineer.
 
 ---
 
